@@ -12,11 +12,17 @@ The target audiences including normal students and some student who interested i
 ##### My interview questions:
 
 Can you describe to me what the storyline is telling you?
+
 Assuming the content is complete and accurate, does the content (visualizations/text) support its title?
+
 Does the storyline flow smoothly? Is there is a problem with the arrangement?
+
 Do you think the selection logic is smoothly?
+
 Do you think the storyline is persuasive enough?
+
 Do you have any recommendation to improve?
+
 Is there any additional information you would like to know?
 
 ##### The finding:
