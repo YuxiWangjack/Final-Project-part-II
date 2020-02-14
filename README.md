@@ -37,7 +37,16 @@ I will change the title a to “ who is the tennis GOAT for my standard”. Besi
 
 [final.pdf](https://github.com/YuxiWangjack/Final-Project-part-II/files/4202668/final.pdf)
 
-### Data visualization
+### Example of data visualization
+
+<img width="957" alt="%" src="https://user-images.githubusercontent.com/60024531/74501611-b4a6ca00-4eb8-11ea-8126-cdb3fb22ca38.png">
+
+<img width="921" alt="total win" src="https://user-images.githubusercontent.com/60024531/74501616-ba9cab00-4eb8-11ea-8e90-63b68565f597.png">
+
+<img width="570" alt="honor" src="https://user-images.githubusercontent.com/60024531/74501635-c4bea980-4eb8-11ea-99f9-5182123e1622.png">
+
+<img width="358" alt="Screen Shot 2020-02-12 at 5 13 09 PM" src="https://user-images.githubusercontent.com/60024531/74501655-d011d500-4eb8-11ea-9554-9c75d7d4ba84.png">
+
 
 
 
