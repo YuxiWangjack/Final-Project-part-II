@@ -5,7 +5,7 @@
 
 ### user research protocol
 
-##### the target audience you hope to reach with your story:
+##### The target audience you hope to reach with your story:
 
 The target audiences including normal students and some student who interested in tennis. For the audiences, I just send all of them the questionnaires and let them reply me. 
 
@@ -34,6 +34,12 @@ Finally, some of them think the text have some grammar mistakes, I will also fix
 I will change the title a to “ who is the tennis GOAT for my standard”. Besides I will change the text titles in the all the three subtitle so that the audience can understand them clearly, for the second part, I will square the top three players so that the audience can know who are the three players for next round selection. 
 
 ### Final version
+
+[final.pdf](https://github.com/YuxiWangjack/Final-Project-part-II/files/4202668/final.pdf)
+
+### Data visualization
+
+
 
 
 
